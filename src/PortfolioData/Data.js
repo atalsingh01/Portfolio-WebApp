@@ -20,7 +20,7 @@ Looking ahead, my aspirations are rooted in making a meaningful impact on societ
 
 export const EXPERIENCES = [
   {
-    year: "may 2024 - july 2024",
+    year: "1 june 2024 - 15 july 2024",
     role: "Java Developer (Intern)",
     company: "WebeTechies",
     description: `
