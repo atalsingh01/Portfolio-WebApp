@@ -23,7 +23,9 @@ export const EXPERIENCES = [
     year: "may 2024 - july 2024",
     role: "Java Developer (Intern)",
     company: "WebeTechies",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
+    description: `
+Java Developer (Intern) - WebeTechies
+During my internship as a Java Developer at WebeTechies, I developed web applications using Java, Spring Boot, and Hibernate, and gained expertise in database management. I collaborated closely with team members to meet project requirements and deadlines, participated in code reviews, and successfully implemented RESTful APIs, enhancing application performance and reliability.`,
     technologies: ["JAVA", "SPRINGBOOT", "HIBERNATE", "SQL","GITHUB"],
   },
  
