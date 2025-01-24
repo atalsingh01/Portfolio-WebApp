@@ -20,12 +20,10 @@ Looking ahead, my aspirations are rooted in making a meaningful impact on societ
 
 export const EXPERIENCES = [
   {
-    year: "1 june 2024 - 15 july 2024",
+    year: "June 2024 - July 2024",
     role: "Java Developer (Intern)",
     company: "WebeTechies",
-    description: `
-Java Developer (Intern) - WebeTechies
-During my internship as a Java Developer at WebeTechies, I developed web applications using Java, Spring Boot, and Hibernate, and gained expertise in database management. I collaborated closely with team members to meet project requirements and deadlines, participated in code reviews, and successfully implemented RESTful APIs, enhancing application performance and reliability.`,
+    description: `During my internship as a Java Developer at WebeTechies, I developed web applications using Java, Spring Boot, and Hibernate, and gained expertise in database management. I collaborated closely with team members to meet project requirements and deadlines, participated in code reviews, and successfully implemented RESTful APIs, enhancing application performance and reliability.`,
     technologies: ["JAVA", "SPRINGBOOT", "HIBERNATE", "SQL","GITHUB"],
   },
  
