@@ -1,6 +1,7 @@
 import { motion } from "framer-motion";
 import { HERO_CONTENT } from "../PortfolioData/Data";
 import heroImg from "../assets/heroImg.jpg"
+import resume from "../assets/resume.pdf"
 const container =(delay)=>({
     hidden: {x: -100, opacity: 0},
     visible: 
@@ -49,6 +50,16 @@ const Hero = () => {
                         className="my-2 max-w-xl py-6 font-light tracking-tighter">
                             {HERO_CONTENT}
                         </motion.p>
+                        <motion.a
+                            href={resume}
+                            download="Atal_Singh_Resume.pdf"
+                            className="mt-4 inline-block rounded bg-blue-500 px-6 py-3 text-white font-semibold shadow-lg hover:bg-blue-700"
+                            variants={container(1.5)}
+                            initial="hidden"
+                            animate="visible"
+                        >
+                            Download Resume
+                        </motion.a>
                     </div>
                 </div>
 
