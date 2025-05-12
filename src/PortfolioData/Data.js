@@ -72,11 +72,11 @@ export const PROJECTS = [
     link:"https://cinespot-pearl.vercel.app/",
   },
   {
-    title: "DataNest (Ongoing Project)",
+    title: "Brain Burst (An Andriod App)",
     image: project6,
     description:
-      "DataNest is a secure and organized database designed to store, manage, and protect information efficiently (own database).",
-    technologies: ["JAVA", "JAVANIO", "ANTLR"],
+      "Brain Burst is a fun-based learning app. Built secure REST APIs for authentication, content management, and progress tracking. ",
+    technologies: ["SPRINGBOOT", "REACT NATIVE", "MYSQL"],
     link:"https://github.com/atalsingh01",
   },
  
